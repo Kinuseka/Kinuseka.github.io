@@ -95,3 +95,7 @@ h1{
   line-height: 20px;
   color: darkgrey;
 }
+
+#hide_text {
+  opacity: 0;
+}
