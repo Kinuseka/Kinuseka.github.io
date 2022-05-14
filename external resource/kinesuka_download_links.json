@@ -14,5 +14,9 @@
   "Huawei IMEI Changer (by Kinuseka)" : {
     "available": false,
     "link": "https://www.mediafire.com/file/tmz1n7gdk6ibo96/Huawei_IMEI_Changer.exe/file"
-}
+  },
+  "Example" : {
+    "available": true,
+    "link": "https://example.com"
+  }
 }
