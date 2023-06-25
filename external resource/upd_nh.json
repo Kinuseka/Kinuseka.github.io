@@ -1,7 +1,7 @@
 {
  "nhScraper": {
    "Version": [0,6,1],
-   "Message": "Improved Update manager. Checks for updates and patches it for you",
+   "Message": "Improved Update manager.",
    "Additional": null
  } 
 }
