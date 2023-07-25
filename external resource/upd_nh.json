@@ -1,7 +1,7 @@
 {
  "nhScraper": {
-   "Version": [0,6,1],
-   "Message": "Improved Update manager.",
+   "Version": [0,6,2],
+   "Message": "Improved filecode capture.",
    "Additional": null
  } 
 }
