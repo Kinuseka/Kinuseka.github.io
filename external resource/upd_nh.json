@@ -1,7 +1,7 @@
 {
  "nhScraper": {
    "Version": [0,6,3],
-   "Message": "Improved filecode capture.",
+   "Message": "Code optimization and fixes",
    "Additional": null
  } 
 }
