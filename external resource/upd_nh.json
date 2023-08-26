@@ -1,7 +1,7 @@
 {
  "nhScraper": {
-   "Version": [0,6,3],
-   "Message": "Code optimization, fixes, and dependencies update",
+   "Version": [0,6,4],
+   "Message": "Centralize functions on LIB API, and minor code update",
    "Additional": null
  } 
 }
