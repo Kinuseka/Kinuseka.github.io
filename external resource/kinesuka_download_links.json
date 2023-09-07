@@ -54,5 +54,10 @@
  "Youtube ReVanced v18.23.35": {
     "available": true,
     "link": "https://cdn.discordapp.com/attachments/1102493981499195413/1138387480563961856/youtube-revanced_v18.23.35.apk"
+ },
+  "vlmcsd-x64-musl-static [github]": {
+    "available": true,
+    "link": "https://github.com/kkkgo/vlmcsd/blob/master/binaries/Linux/intel/static/vlmcsd-x64-musl-static"
  }
+  
 }
