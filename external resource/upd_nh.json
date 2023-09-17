@@ -1,7 +1,7 @@
 {
  "nhScraper": {
-   "Version": [0,6,4],
-   "Message": "Centralize functions on LIB API, and minor code update",
+   "Version": [0,6,5],
+   "Message": "Fixed NHentai Mirror and minor code optimizations",
    "Additional": null
  } 
 }
