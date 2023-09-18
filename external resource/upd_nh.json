@@ -2,6 +2,6 @@
  "nhScraper": {
    "Version": [0,6,5],
    "Message": "Fixed NHentai Mirror and minor code optimizations",
-   "Additional": null
+   "Additional": {}
  } 
 }
