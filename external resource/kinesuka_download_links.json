@@ -58,6 +58,9 @@
   "vlmcsd-x64-musl-static [github]": {
     "available": true,
     "link": "https://github.com/kkkgo/vlmcsd/blob/master/binaries/Linux/intel/static/vlmcsd-x64-musl-static"
+ },
+  "Disk Drill Professional 4.4.606.0 (x64) [nextcloud]": {
+    "available": true,
+    "link": "https://nextcloud.kinuseka.us/index.php/s/FKwaa3yFZDYFxzA"
  }
-  
 }
