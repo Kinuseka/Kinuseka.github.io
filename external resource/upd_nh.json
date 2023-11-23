@@ -1,7 +1,7 @@
 {
  "nhScraper": {
-   "Version": [0,6,6],
-   "Message": "Fix regex incorrect separator for file iterator",
+   "Version": [0,6,7],
+   "Message": "Add version on logs",
    "Additional": {}
  } 
 }
