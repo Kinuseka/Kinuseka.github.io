@@ -62,5 +62,17 @@
   "Disk Drill Professional 4.4.606.0 (x64) [nextcloud]": {
     "available": true,
     "link": "https://nextcloud.kinuseka.us/index.php/s/FKwaa3yFZDYFxzA"
+ },
+  "Youtube ReVanced v18.45.43 [nextcloud]": {
+    "available": true,
+    "link": "https://nextcloud.kinuseka.us/index.php/s/jyAMANSEtJaZY98"
+ },
+  "microG v0.2.24.220220 [nextcloud]": {
+    "available": true,
+    "link": "https://nextcloud.kinuseka.us/index.php/s/a4fRfxWAspwgdaD"
+ },
+  "microG v0.2.27.230755 [nextcloud]": {
+    "available": true,
+    "link": "https://nextcloud.kinuseka.us/index.php/s/CPENHa63sgm3tRg"
  }
 }
