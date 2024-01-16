@@ -5,8 +5,8 @@
    "Additional": {}
  },
  "gogoR2": {
-   "Version": [1,0,0],
-   "Message": false,
+   "Version": [1,1,0],
+   "Message": "Fixed download issue.",
    "Additional": {}
  }
 }
