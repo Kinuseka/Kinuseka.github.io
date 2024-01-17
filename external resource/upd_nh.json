@@ -5,8 +5,8 @@
    "Additional": {}
  },
  "gogoR2": {
-   "Version": [1,1,0],
-   "Message": "Fixed download issue.",
+   "Version": [1,1,1],
+   "Message": "Version v1.1.1 fixes quality preference not taking into effect",
    "Additional": {}
  }
 }
