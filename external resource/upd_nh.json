@@ -5,8 +5,8 @@
    "Additional": {}
  },
  "gogoR2": {
-   "Version": [1,1,1],
-   "Message": "Version v1.1.1 fixes quality preference not taking into effect",
+   "Version": [1,2,0],
+   "Message": "v1.2 Enhanced manual quality, added quality on filenames, fixed update checker logic",
    "Additional": {}
  }
 }
