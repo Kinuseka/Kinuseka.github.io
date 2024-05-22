@@ -94,5 +94,13 @@
   "Youtube ReVanced v19.11.43 - v4.8.1 patches [mediafire]": {
     "available": true,
     "link": "https://www.mediafire.com/file/vau6umef5s8wp1r/youtube-revanced_v19.11.43-patches_v4.8.1.apk/file"
+ },
+  "GmsCore v0.3.1.4 [default] (microG for ReVanced)": {
+    "available": true,
+    "link": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.4.240913/app.revanced.android.gms-240913008-signed.apk"
+ },
+  "GmsCore v0.3.1.4 [huawei/xiaomi] (microG for ReVanced)": {
+    "available": true,
+    "link": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.4.240913/app.revanced.android.gms-240913008-hw-signed.apk"
  }
 }
