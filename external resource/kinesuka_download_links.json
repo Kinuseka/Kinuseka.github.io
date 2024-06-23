@@ -59,27 +59,27 @@
     "available": true,
     "link": "https://github.com/kkkgo/vlmcsd/blob/master/binaries/Linux/intel/static/vlmcsd-x64-musl-static"
  },
-  "Disk Drill Professional 4.4.606.0 (x64) [nextcloud]": {
+  "Disk Drill Professional 4.4.606.0 (x64) [nextcloud - kinuseka]": {
     "available": true,
     "link": "https://nextcloud.kinuseka.us/index.php/s/FKwaa3yFZDYFxzA"
  },
-  "Youtube ReVanced v18.45.43 [nextcloud]": {
+  "Youtube ReVanced v18.45.43 [nextcloud - kinuseka]": {
     "available": true,
     "link": "https://nextcloud.kinuseka.us/index.php/s/jyAMANSEtJaZY98"
  },
-  "microG v0.2.24.220220 [nextcloud]": {
+  "microG v0.2.24.220220 [nextcloud - kinuseka]": {
     "available": true,
     "link": "https://nextcloud.kinuseka.us/index.php/s/a4fRfxWAspwgdaD"
  },
-  "microG v0.2.27.230755 [nextcloud]": {
+  "microG v0.2.27.230755 [nextcloud - kinuseka]": {
     "available": true,
     "link": "https://nextcloud.kinuseka.us/index.php/s/CPENHa63sgm3tRg"
  },
-  "Youtube ReVanced v19.03.35 - v4.0.2 patches [nextcloud]": {
+  "Youtube ReVanced v19.03.35 - v4.0.2 patches [nextcloud - kinuseka]": {
     "available": true,
     "link": "https://nextcloud.kinuseka.us/index.php/s/wzP6XyYb4QtKgck"
  },
-  "Youtube ReVanced v19.04.37 - v4.3.0 patches [bacloud]": {
+  "Youtube ReVanced v19.04.37 - v4.3.0 patches [nextcloud - bacloud]": {
     "available": true,
     "link": "https://drive-01.bacloud.online/s/tBxLZttCbwJDNKR"
  },
@@ -87,7 +87,7 @@
     "available": true,
     "link": "https://nextcloud.kinuseka.us/index.php/s/QawRoaJgBFCGcoM"
  },
-  "Youtube ReVanced v19.09.37 - v4.4.0 patches [bacloud]": {
+  "Youtube ReVanced v19.09.37 - v4.4.0 patches [nextcloud - bacloud]": {
     "available": true,
     "link": "https://drive-01.bacloud.online/s/emBRmFK3AoGFerz"
  },
@@ -102,5 +102,9 @@
   "GmsCore v0.3.1.4 [huawei/xiaomi] (microG for ReVanced)": {
     "available": true,
     "link": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.4.240913/app.revanced.android.gms-240913008-hw-signed.apk"
+ },
+  "Youtube ReVanced v19.16.39 - v4.10.0 patches [nextcloud - kinuseka]": {
+    "available": true,
+    "link": "https://nextcloud.kinuseka.us/index.php/s/e2inpbWGxCPKHDs"
  }
 }
